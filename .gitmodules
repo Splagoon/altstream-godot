@@ -1,0 +1,4 @@
+[submodule "http-event-source"]
+	path = http_event_source
+	url = https://gitlab.com/DaGammla/godot-http-event-source.git
+	ignore = dirty
